@@ -7,14 +7,14 @@ GitHub repository. On Visual, the program can be run with the following command:
 `node .`
 
 Once the enter key has been pressed, the game starts, and the program will pick a random word
-from a word bank of many different words in the word-bank.json file. The user will be provided a number of
+from a word bank of many different words in the `word-bank.json` file. The user will be provided a number of
 underscore characters for each letter in the chosen word, with whitespaces between underscores.
 They will also be provided with the number of tries they have remaining. The user starts off with 6 tries.
 
 The code puts the word in two different formats, an array format and a string format. The string format is used
 when checking the user input.
 
-Whenever the user guesses a letter, that letter will be stored into an array called alreadyguessed
+Whenever the user guesses a letter, that letter will be stored into an array called `alreadyguessed`
 that stores all of the letters the user has guessed so far. If the letter is in the puzzle, the letters will be
 filled in the correct places. If the user guesses a letter that they have already guessed, the program will tell
 them that they have already guessed that letter (this would not count against the user).
@@ -33,7 +33,7 @@ In order for the user to exit the program, they have to input this command:
 Here are some more things to learn about this program:
 * If the user inputs an uppercase letter, that letter will automatically be converted to lowercase.
 * If the user inputs a non-alphabetic character (like a number), that character will be ignored by the program.
-* The array that stores all of the letters that the user guesses in each round, alreadyguessed, will be emptied out before a new round starts. This also applies to the chosen word in both array and string formats. In addition, the number of tries gets reset to 6.
+* The array that stores all of the letters that the user guesses in each round, `alreadyguessed`, will be emptied out before a new round starts. This also applies to the chosen word in both array and string formats. In addition, the number of tries gets reset to 6.
 * Three arrow functions have been used throughout the javascript file, index.js.
 * The higher-order function, `forEach`, has been used three times throughout the index.js file.
 * Comments have been provided throughout the code for simplification purposes.
