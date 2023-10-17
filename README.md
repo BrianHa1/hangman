@@ -37,3 +37,6 @@ Here are some more things to learn about this program:
 * Three arrow functions have been used throughout the javascript file, index.js.
 * The higher-order function, `forEach`, has been used three times throughout the index.js file.
 * Comments have been provided throughout the code for simplification purposes.
+
+## References
+*[https://github.com/goodatcode/javascripthangman/tree/master](https://github.com/goodatcode/javascripthangman/tree/master) - the code in this repo gave me some good ideas for the project.
