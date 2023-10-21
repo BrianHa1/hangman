@@ -39,4 +39,4 @@ Here are some more things to learn about this program:
 * Comments have been provided throughout the code for simplification purposes.
 
 ## References
-*[https://github.com/goodatcode/javascripthangman/tree/master](https://github.com/goodatcode/javascripthangman/tree/master) - the code in this repo gave me some good ideas for the project.
+* [https://github.com/goodatcode/javascripthangman/tree/master](https://github.com/goodatcode/javascripthangman/tree/master) - the code in this repo gave me some good ideas for the project.
