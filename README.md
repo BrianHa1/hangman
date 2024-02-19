@@ -1,8 +1,9 @@
 # hangman
+This is a README.md file for my Hangman project. It was done on Visual Studio Code through the
+GitHub repository.
 
 ## Description
-This is a README.md file for my Hangman project. It was done on Visual Studio Code through the
-GitHub repository. On Visual, the program can be run with the following command:
+On Visual, the program can be run with the following command:
 
 `node .`
 
